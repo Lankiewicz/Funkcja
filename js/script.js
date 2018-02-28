@@ -7,4 +7,7 @@
 	} 
 		return a * h / 2
 	}
-	console.log(getTriangleArea(5, 3))
+	console.log(getTriangleArea(5, 3));
+	var triangle1Area = getTriangleArea(2, 8);
+	var triangle1Area = getTriangleArea(4, 16);
+	var triangle1Area = getTriangleArea(6, 24);
